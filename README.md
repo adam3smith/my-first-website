@@ -2,4 +2,4 @@
 
 Some text
 
-[CSL File](/testing.csl)
+[CSL File](/test.csl)
